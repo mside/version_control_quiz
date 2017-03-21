@@ -12,3 +12,4 @@ Q 4. Where would you find a local repo?
 A local repository can be found on your own repository after it is cloned from the remote repo.
 
 Q 5. Is it normal to delete a branch after it is merged with the master?
+It is normal, but not always beneficial. More steps must be taken to restore the repo to the branch after deletion.

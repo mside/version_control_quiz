@@ -5,7 +5,8 @@ Q 2. Name 2 other examples of Version Control Systems apart from Git.
 Concurrent Versions System(CVS) and Apache Subversion(SVN)
 
 Q 3. What is a repo and explain the difference between a local and remote one?
-
+A local repository is code stored on a single computer(the one the user is on) and can only be changed locally. The changes can then be added to a remote repository via a pull request.
+A remote repository is the sum of the changes made by local repositories if they are merged, and is hosted online. Many people can clone the remote repository to their own local repository.
 
 Q 4. Where would you find a local repo?
 

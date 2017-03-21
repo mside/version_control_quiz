@@ -1,14 +1,20 @@
 Q 1. What are Pull Requests used for?
 
+  Pull is used to update the project from Repository.
 
 Q 2. Name 2 other examples of Version Control Systems apart from Git.
 
+  - SourceForce
+  - BitBucket
 
 Q 3. What is a repo and explain the difference between a local and remote one? 
 
+  Repository is a location where all the files for a particular project are stored, and local is a project which is on desktop.
 
 Q 4. Where would you find a local repo?
 
+  I can find on desktop.
 
 Q 5. Is it normal to delete a branch after it is merged with the master?
 
+  Yes, It is.

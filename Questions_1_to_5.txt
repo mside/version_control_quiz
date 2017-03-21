@@ -9,6 +9,6 @@ A local repository is code stored on a single computer(the one the user is on) a
 A remote repository is the sum of the changes made by local repositories if they are merged, and is hosted online. Many people can clone the remote repository to their own local repository.
 
 Q 4. Where would you find a local repo?
-
+A local repository can be found on your own repository after it is cloned from the remote repo.
 
 Q 5. Is it normal to delete a branch after it is merged with the master?
